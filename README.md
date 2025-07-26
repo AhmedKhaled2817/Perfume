@@ -13,7 +13,7 @@ Designed to highlight premium fragrances, the site features smooth scroll animat
 
 ## 👀 Preview (PREVIEW)
 
-<img width="1400" alt="Perfume Desktop Preview" src="https://github.com/AhmedKhaled2817/Perfume/assets/your-desktop-image-here" />
+![Preview](https://github.com/user-attachments/assets/ad51b3c4-bfc8-433e-80e8-7c6063dad294)
 
 ---
 
